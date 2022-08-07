@@ -275,7 +275,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1388228103}
         m_TargetAssemblyTypeName: gamemaneger, Assembly-CSharp
         m_MethodName: store
         m_Mode: 1
@@ -836,7 +836,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1388228103}
         m_TargetAssemblyTypeName: gamemaneger, Assembly-CSharp
         m_MethodName: increase
         m_Mode: 1
